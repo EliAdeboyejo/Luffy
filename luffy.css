@@ -1,0 +1,17 @@
+
+body{
+    text-align: center;
+    color: brown;
+    background-color: yellow;
+
+}
+
+.class{
+    display: flex;
+    justify-content: space-between;
+}
+
+.vivid{
+    display: flex;
+    justify-content: space-between;
+}
